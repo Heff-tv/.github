@@ -3,6 +3,12 @@
 - Publicly available calculators and tools
 - Some of the cool stuff we use to do what we do! 
 
+
+## Social Links
+- [Youtube](https://www.youtube.com/@heffdottv)
+- [Twitch](https://www.twitch.tv/heffdottv)
+- [Discord](discord.gg/Vtarw6PvHQ)
+- [Kick](https://kick.com/hefftv)
 <!--
 
 **Here are some ideas to get you started:**
