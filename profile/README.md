@@ -9,6 +9,9 @@
 - [Twitch](https://www.twitch.tv/heffdottv)
 - [Discord](discord.gg/Vtarw6PvHQ)
 - [Kick](https://kick.com/hefftv)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H8M0G74)
+
 <!--
 
 **Here are some ideas to get you started:**
